@@ -1,0 +1,23 @@
+.rights {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.rights h1 {
+  padding-left: 0%;
+  margin-top: 0;
+}
+
+.rights a {
+  color: #000000;
+  text-decoration: none;
+  padding-left: 0%;
+}
+
+.justify {
+  text-align: justify;
+  padding-left: 0%;
+  hyphens: auto;
+}

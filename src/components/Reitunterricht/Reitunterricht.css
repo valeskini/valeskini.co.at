@@ -1,0 +1,74 @@
+.reitunterricht {
+  padding-left: 80px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-right: 80px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.reitunterricht h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #000000;
+  font-size: 50px;
+  padding-left: 240px;
+}
+
+.reitunterricht h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: #000000;
+  font-size: 35px;
+  padding-left: 245px;
+}
+
+.reitunterricht p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 80;
+  padding-left: 245px;
+  padding-right: 245px;
+}
+
+.reitunterricht img {
+  height: 375px;
+  padding-left: 245px;
+  padding-bottom: 30px;
+}
+
+@media (max-width: 812px) {
+  .reitunterricht {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+  }
+
+  .reitunterricht h1 {
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    font-size: 32px;
+    padding-left: 10px;
+    padding-right: 35px;
+  }
+
+  .reitunterricht h2 {
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    font-size: 23px;
+    padding-left: 10px;
+    padding-right: 20px;
+  }
+  .reitunterricht p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 80;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 55px;
+  }
+  .reitunterricht img {
+    height: 205px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+  }
+}

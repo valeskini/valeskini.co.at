@@ -1,0 +1,174 @@
+.abhofverkauf {
+  padding-left: 80px;
+  padding-top: 10px;
+  padding-right: 80px;
+  padding-bottom: 10px;
+}
+
+.abhofverkauf h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #000000;
+  font-size: 50px;
+  padding-left: 240px;
+}
+.abhofverkauf strong {
+  font-size: 25px;
+}
+.abhofverkauf h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: #000000;
+  font-size: 35px;
+  padding-left: 245px;
+}
+
+.abhofverkauf p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 80;
+  padding-left: 245px;
+  padding-right: 245px;
+}
+.zweierlisteeins {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.zweierlisteeins p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.zweierlisteeins::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.zweierlisteeins-eins {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.zweierlisteeins img {
+  height: 275px;
+  margin: 0 10px;
+}
+
+.zweierlisteeins-zwei {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.zweierlistezwei {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.zweierlistezwei p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.zweierlistezwei::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.zweierlistezwei-eins {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.zweierlistezwei img {
+  height: 275px;
+  margin: 0 10px;
+}
+
+.zweierlistezwei-zwei {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+@media (max-width: 812px) {
+  .abhofverkauf {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+  }
+
+  .abhofverkauf h1 {
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    font-size: 40px;
+    padding-left: 10px;
+    padding-right: 15px;
+  }
+
+  .abhofverkauf h2 {
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 20px;
+  }
+
+  .abhofverkauf p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 80;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+  }
+  .zweierlisteeins {
+    display: unset;
+    justify-content: center;
+  }
+
+  .zweierlisteeins-eins {
+    float: none;
+    width: unset;
+    padding-left: 0%;
+    padding: unset;
+  }
+
+  .zweierlisteeins img {
+    height: 210px;
+    margin: 0 10px;
+  }
+  .zweierlistezwei img {
+    height: 210px;
+    margin: 0 10px;
+  }
+  .zweierlisteeins-zwei {
+    float: none;
+    width: unset;
+    padding-left: 0%;
+    padding: unset;
+  }
+  .zweierlistezwei {
+    display: unset;
+    justify-content: center;
+  }
+
+  .zweierlistezwei-eins {
+    float: none;
+    width: unset;
+    padding-left: 0%;
+    padding: unset;
+  }
+
+  .zweierlistezwei-zwei {
+    float: none;
+    width: unset;
+    padding-left: 0%;
+    padding: unset;
+  }
+}
