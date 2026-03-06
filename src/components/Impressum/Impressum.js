@@ -7,23 +7,19 @@ function Impressum() {
       <h1>IMPRESSUM</h1>
       <p>&nbsp;</p>
       <p>
-        Reitschule Valeskini
+        Massi Valeskini
         <br />
-        Sabrina Valeskini
+        Prankergasse 77/15
         <br />
-        Kreuzberg 602
-        <br />
-        8583 Edelschrott / Österreich
+        8020 Graz / Österreich
       </p>
       <p>
         Email:{" "}
-        <a href="mailto:reitschule@valeskini.co.at">
-          reitschule@valeskini.co.at
-        </a>
+        <a href="mailto:reitstall@valeskini.dev">reitstall@valeskini.dev</a>
         <br />
-        <a href="tel:+4306645256697">Telefon: +43 664 525 66 97</a>
+        <a href="tel:+436677679444">Telefon: +43 667 767 9444</a>
       </p>
-      <p>Für den Inhalt verantwortlich: Sabrina Valeskini</p>
+      <p>Für den Inhalt verantwortlich: Massi Valeskini</p>
       <p>&nbsp;</p>
       <h3>Haftungsausschluss (Disclaimer)</h3>
       <h4>Haftung für Links</h4>
@@ -55,7 +51,15 @@ function Impressum() {
         entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden
         wir derartige Inhalte umgehend entfernen.
         <br />
-        Wir bedanken uns bei <a href="https://www.flaticon.com/free-icons/horse" title="horse icons">Freepik - Flaticon</a> für die Kostenlose bereitstellung der (<a href="https://www.flaticon.com/free-icons/horse" title="horse icons">Pferde-</a>)Icons für unsere Logos!
+        Wir bedanken uns bei{" "}
+        <a href="https://www.flaticon.com/free-icons/horse" title="horse icons">
+          Freepik - Flaticon
+        </a>{" "}
+        für die Kostenlose bereitstellung der (
+        <a href="https://www.flaticon.com/free-icons/horse" title="horse icons">
+          Pferde-
+        </a>
+        )Icons für unsere Logos!
       </p>
       <p>&nbsp;</p>
     </div>

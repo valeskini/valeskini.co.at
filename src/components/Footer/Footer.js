@@ -25,16 +25,16 @@ const Footer = (props) => {
       </a>
       <br />
       <br />
-      <p>© {copyrightYear} Reitschule Valeskini</p>
+      <p>© {copyrightYear} - Website nur zu Demonstrationszwecken</p>
       <p>
-        Sabrina Valeskini • Kreuzberg 602 / 8583 Edelschrott • Email:
-        <a className="href" href="mailto:reitschule@valeskini.co.at">
+        Massi Valeskini • Prankergasse 77/15 • 8020 Graz • Email:
+        <a className="href" href="mailto:reitstall@valeskini.dev">
           {" "}
-          reitschule@valeskini.co.at
+          reitstall@valeskini.dev
         </a>{" "}
         • Telefon:{" "}
-        <a className="href" href="tel:+436645256697">
-          +43 664 525 66 97
+        <a className="href" href="tel:+436677679444">
+          +43 667 767 9444
         </a>
       </p>
       <p>

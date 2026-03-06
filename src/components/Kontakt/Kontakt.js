@@ -10,7 +10,7 @@ function Kontakt() {
         "service_6i941rg",
         "template_kontakt",
         e.target,
-        "user_wiTT24SzZzNjn15pYdXyH"
+        "user_wiTT24SzZzNjn15pYdXyH",
       )
       .then(
         (result) => {
@@ -18,14 +18,14 @@ function Kontakt() {
         },
         (error) => {
           console.log(error.text);
-        }
+        },
       );
   }
   return (
     <div className="formular">
       <h1>KONTAKT</h1>
       <div className="form">
-{/*         <form onSubmit={sendEmail}>
+        {/*         <form onSubmit={sendEmail}>
           <label>
             Vor- und Zuname<a className="required">*</a>
           </label>
@@ -59,11 +59,21 @@ function Kontakt() {
           </a>
           <br />
         </form> */}
-        <h3>Das Kontakt-Formular befindet sich zurzeit in geplanten Wartungsarbeiten!<br />Bitte senden sie uns stattdessen eine Mail an <a href="mailto:reitschule@valeskini.co.at">reitschule@valeskini.co.at</a></h3>
+        <h3>
+          Diese Website ist nur zu Demonstrationszwecken online - der Inhalt ist
+          nicht aktuell.
+          <br />
+          <br />
+          Das Kontakt-Formular befindet sich zurzeit in geplanten
+          Wartungsarbeiten!
+          <br />
+          Bitte senden sie uns stattdessen eine Mail an{" "}
+          <a href="mailto:reitstall@valeskini.dev">reitstall@valeskini.dev</a>
+        </h3>
       </div>
-      <p className="requiredtext">
+      {/*<p className="requiredtext">
         Felder mit <a className="required">*</a> sind Pflichtfelder!
-      </p>
+      </p>*/}
       <div className="address">
         <p>
           <strong>Reitschule Valeskini</strong>
@@ -75,9 +85,7 @@ function Kontakt() {
           8583 Edelschrott
           <br />
           Email:{" "}
-          <a href="mailto:reitschule@valeskini.co.at">
-            reitschule@valeskini.co.at
-          </a>
+          <a href="mailto:reitstall@valeskini.dev">reitstall@valeskini.dev</a>
           <br />
           Telefon: <a href="tel:+436645256697">+43 664 525 66 97</a>
           <br />
