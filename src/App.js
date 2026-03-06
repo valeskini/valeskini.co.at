@@ -10,7 +10,7 @@ import {
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="reitstall">
       <div>
         <div className="header">
           <img src="https://i.imgur.com/UJ2qJ0f.png" width="123" height="45" />

@@ -108,9 +108,9 @@ function Home(props) {
             </LazyLoad>
             <p>
               Unser oberstes Gebot ist es, Pferde fair zu behandeln. Deswegen
-              heißt Schulbetrieb bei uns auch, daß wir Reitunterricht maximal Fünf mal
-              wöchentlich anbieten mit jeweils maximal zwei Stunden. So haben
-              unsere Pferde die Gelegenheit sich zu erholen. Außerdem sind
+              heißt Schulbetrieb bei uns auch, daß wir Reitunterricht maximal
+              Fünf mal wöchentlich anbieten mit jeweils maximal zwei Stunden. So
+              haben unsere Pferde die Gelegenheit sich zu erholen. Außerdem sind
               unsere Pferde Kinder, Traktoren und andere Tiere gewohnt. Sie sind
               vom Charakter sehr ausgeglichen und ruhig.
             </p>
@@ -124,11 +124,12 @@ function Home(props) {
               <img src="https://i.imgur.com/4n5zAzL.jpeg"></img>
             </LazyLoad>
             <p>
-            Bringen Sie Ihr eigenes Pferd mit! Bei uns können Sie Ihr Pferd 
-            in einer freundlichen und entspannten Umgebung unterbringen. Wir 
-            bieten großzügige Boxen für maximale Bewegungsfreiheit. Unsere Reithalle
-            bietet einen großzügigen Offenstall von 800m², und zusätzlich steht
-            eine 3000m² große befestigte Fläche zur Verfügung.{" "}
+              Bringen Sie Ihr eigenes Pferd mit! Bei uns können Sie Ihr Pferd in
+              einer freundlichen und entspannten Umgebung unterbringen. Wir
+              bieten großzügige Boxen für maximale Bewegungsfreiheit. Unsere
+              Reithalle bietet einen großzügigen Offenstall von 800m², und
+              zusätzlich steht eine 3000m² große befestigte Fläche zur
+              Verfügung.{" "}
             </p>
             <Link to="/Kontakt">
               <span>Kontaktieren Sie uns</span>
