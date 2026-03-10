@@ -1,5 +1,13 @@
 # valeskini.co.at
-#### Demo: https://reitstall.valeskini.dev
+#### Live Demo: https://reitstall.valeskini.dev
 
-This is a homepage I created for my mother in 2022.
-It uses ReactJS v17, the design is based on a old version of the site made by a webdesign company.
+A modern, web app I built for my mothers horse stable. I took the original design concept from a legacy agency site and rebuilt it from the ground up using React.
+
+Tech Stack
+- Frontend: ReactJS (v17)
+- Design: Custom CSS based on existing branding
+- Hosting: Self-hosted & performance-optimized
+
+Key Focus
+- Modernization: Replaced bloated legacy code with a clean, maintainable component structure.
+- Performance: Optimized asset handling for fast load times.
